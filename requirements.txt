@@ -1,0 +1,2 @@
+instabot==0.117.0
+pyTelegramBotAPI==4.2.0
