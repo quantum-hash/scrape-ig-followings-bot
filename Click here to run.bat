@@ -1,3 +1,3 @@
 @echo off
-python thefile.py
+python the_scraping_file.py
 pause
