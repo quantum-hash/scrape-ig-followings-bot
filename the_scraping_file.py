@@ -1,3 +1,5 @@
+#For educational purposes only
+
 import connection_checker
 connection_checker.check(url = "https://www.amazon.com", frequency = [240,300])
 
